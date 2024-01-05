@@ -1,4 +1,4 @@
-Exercício realizado no curso de Análise de Dados IEFP-Portugal onde foram trabalhadas expressões regulares em Python.
+## Exercício realizado no curso de Análise de Dados IEFP-Portugal onde foram trabalhadas expressões regulares em Python.
 
 
 As expressões regulares (também conhecidas como regex) são uma ferramenta poderosa em Python para manipulação de strings baseada em padrões. 
